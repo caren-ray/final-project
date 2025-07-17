@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.set_page_config(page_title="final project", layout="centered")
+st.set_page_config(page_title="final-project", layout="centered")
 st.title("final project")
 st.markdown("This Streamlit app uses historical software metrics to predict the likelihood of bugs in code.")
 
